@@ -1,4 +1,4 @@
-requestUrl = 'https://webhook.site/357a5c55-aaa2-4a79-bad6-ebc6bb37bda2'
+requestUrl = 'https://example.com/api/upload-file'
 
 multiPartTemplate = '
 --{}
