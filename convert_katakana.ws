@@ -115,7 +115,7 @@ map = [
     "ッ" :"T",
 ]
 
-name = 'タナカ'
+name = convert_kana('たなか', 'KC')
 
 translation = ''
 
