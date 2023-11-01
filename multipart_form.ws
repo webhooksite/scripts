@@ -3,7 +3,7 @@ formFields = [
     'anotherkey': 'anothervalue'
 ]
 
-requestUrl = 'https://webhook.site/25c4b582-b6a0-4ec9-94f0-c2d02f77701e?card=001F0E78'
+requestUrl = 'https://example.com'
 requestMethod = 'POST'
 multiPartBoundary = '_BOUNDARY_'
 requestHeaders = [
